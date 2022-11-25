@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Williams Barros</h1>
 <h3 align="center">A passionate Backend developer from Uruguay</h3>
 
-- 🔭 I’m currently working on **Net2Phone**
+- 🔭 I’m currently working on **Mercado Libre** <a href="https://www.mercadolibre.com.uy/" target="_blank" rel="noreferrer"> <img src="https://http2.mlstatic.com/frontend-assets/ml-web-navigation/ui-navigation/5.21.3/mercadolibre/logo__large_plus.png" alt="MercadoLibre" width="60" height="60"/> </a>
 
 - 🌱 I’m currently learning **Php - JavaScript - Java**
 
